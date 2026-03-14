@@ -1,0 +1,15 @@
+name: Runbooks
+description: Documented procedures and step-by-step instructions for handling routine
+  operations, troubleshooting issues, and responding to incidents in IT systems and
+  infrastructure. It reduces manual effort and human error while increasing throughput
+  and operational consistency.
+url: https://en.wikipedia.org/wiki/Runbook
+tags:
+- Operations
+- Documentation
+- Incident Response
+- Automation
+created: '2025'
+modified: '2025'
+apis: []
+common: []
