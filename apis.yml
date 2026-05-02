@@ -1,12 +1,57 @@
+aid: runbooks
 name: Runbooks
-description: Documented procedures and step-by-step instructions for handling routine operations, troubleshooting issues, and responding to incidents in IT systems and infrastructure. It reduces manual effort and human error while increasing throughput and operational consistency.
-url: https://en.wikipedia.org/wiki/Runbook
+description: >-
+  Runbooks is an all-in-one IT operations platform purpose-built for IT teams and managed
+  service providers. It consolidates ITSM, ITAM, BizOps, SecOps, and Insights into a
+  single integrated system, enabling teams to manage help desk tickets, hardware and software
+  assets, client relationships, security audits, and operational analytics from one platform.
+  Runbooks targets IT departments and MSPs managing 50-5,000 users at a flat-rate pricing model.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Automation
-  - Documentation
-  - Incident Response
-  - Operations
-created: '2025'
-modified: '2025'
-apis: []
-common: []
+  - ITSM
+  - ITAM
+  - IT Operations
+  - Managed Service Provider
+  - Help Desk
+  - Asset Management
+  - Incident Management
+url: https://raw.githubusercontent.com/api-evangelist/runbooks/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-05-02'
+specificationVersion: '0.19'
+apis:
+  - aid: runbooks:runbooks
+    name: Runbooks IT Operations Platform
+    description: >-
+      The Runbooks platform provides an integrated IT operations suite covering
+      ITSM (service desk, incident management, knowledge base), ITAM (hardware and
+      software asset tracking, warranty management, lifecycle management), BizOps
+      (CRM, client management, budgeting, vendor management), SecOps (audit logs, MFA,
+      password management), and Insights (analytics, KPI tracking, reporting).
+    humanURL: https://runbooks.com
+    baseURL: https://runbooks.com
+    tags:
+      - ITSM
+      - ITAM
+      - IT Operations
+      - Managed Service Provider
+      - Help Desk
+      - Asset Management
+      - Incident Management
+      - Security Operations
+    properties:
+      - type: Documentation
+        url: https://runbooks.com
+      - type: Website
+        url: https://runbooks.com
+common:
+  - type: Website
+    url: https://runbooks.com
+  - type: Pricing
+    url: https://runbooks.com
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

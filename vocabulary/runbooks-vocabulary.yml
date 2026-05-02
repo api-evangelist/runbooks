@@ -1,0 +1,119 @@
+name: Runbooks IT Operations Platform Vocabulary
+description: >-
+  Core vocabulary, terminology, and domain concepts used in the Runbooks IT
+  operations platform. Covers ITSM, ITAM, SecOps, BizOps, and Insights modules.
+created: '2026-05-02'
+modified: '2026-05-02'
+terms:
+
+  - term: Runbook
+    definition: >-
+      A documented set of routine procedures and step-by-step instructions for
+      handling IT operations, troubleshooting issues, and responding to incidents.
+      Runbooks reduce manual effort and human error while ensuring operational consistency.
+    tags:
+      - ITSM
+      - Automation
+      - Operations
+
+  - term: ITSM
+    definition: >-
+      IT Service Management. A set of practices for managing IT services that focuses
+      on aligning IT services with business needs. Covers help desk, incident management,
+      problem management, change management, and service request fulfillment.
+    tags:
+      - ITSM
+      - Service Management
+
+  - term: ITAM
+    definition: >-
+      IT Asset Management. The process of ensuring an organization's assets are
+      accounted for, maintained, and utilized effectively. Covers hardware inventory,
+      software licensing, warranty tracking, and asset lifecycle management.
+    tags:
+      - ITAM
+      - Asset Management
+
+  - term: Incident
+    definition: >-
+      An unplanned interruption or reduction in the quality of an IT service.
+      Incidents are managed through a structured process from detection and
+      classification through resolution and closure.
+    tags:
+      - ITSM
+      - Incident Management
+
+  - term: Service Desk
+    definition: >-
+      The single point of contact between IT and end users. Manages incidents,
+      service requests, and provides information to restore normal service operation.
+    tags:
+      - ITSM
+      - Help Desk
+
+  - term: Knowledge Base
+    definition: >-
+      A self-service repository of documented solutions, procedures, and FAQs
+      that enables users and IT staff to find answers without escalating tickets.
+    tags:
+      - ITSM
+      - Documentation
+
+  - term: MSP
+    definition: >-
+      Managed Service Provider. A company that remotely manages a customer's IT
+      infrastructure and end-user systems. Runbooks is purpose-built for MSPs
+      managing multiple client environments.
+    tags:
+      - MSP
+      - IT Operations
+
+  - term: SecOps
+    definition: >-
+      Security Operations. The combination of security practices and IT operations
+      including audit logging, multi-factor authentication, password management,
+      and access control.
+    tags:
+      - Security
+      - SecOps
+
+  - term: BizOps
+    definition: >-
+      Business Operations within an IT context. Covers CRM functions, client
+      relationship management, vendor management, budgeting, and contract tracking.
+    tags:
+      - Business
+      - Operations
+
+  - term: Insights
+    definition: >-
+      Analytics and reporting functionality providing visibility into IT operations
+      performance through KPI tracking, dashboards, and trend analysis.
+    tags:
+      - Analytics
+      - Reporting
+
+  - term: Asset Lifecycle
+    definition: >-
+      The stages an IT asset goes through from procurement through retirement:
+      planning, acquisition, deployment, maintenance, and disposal.
+    tags:
+      - ITAM
+      - Asset Management
+
+  - term: MFA
+    definition: >-
+      Multi-Factor Authentication. A security mechanism requiring users to verify
+      their identity using two or more verification factors beyond a password.
+    tags:
+      - Security
+      - Authentication
+
+  - term: SLA
+    definition: >-
+      Service Level Agreement. A contract between a service provider and customer
+      defining the expected level of service, response times, and resolution targets
+      for incidents and service requests.
+    tags:
+      - ITSM
+      - Service Management
