@@ -1,5 +1,5 @@
 # Runbooks (runbooks)
-Runbooks is an all-in-one IT operations platform purpose-built for IT teams and managed service providers. It consolidates ITSM, ITAM, BizOps, SecOps, and Insights into a single integrated system, enabling teams to manage help desk tickets, hardware and software assets, client relationships, security audits, and operational analytics from one platform. Targets IT departments and MSPs managing 50-5,000 users at a flat-rate pricing model of $25/tech per month.
+Runbooks is an all-in-one IT operations platform purpose-built for IT teams and managed service providers (MSPs). It consolidates ITSM (service desk, ticketing, incident management, knowledge base, SLA management), ITAM (hardware and software asset tracking, lifecycle management, warranty tracking, QR code asset labels), BizOps (CRM, client management, quarterly business reviews, budget forecasting, vendor management), SecOps (audit logs, MFA, password management), and Insights (automated reports, satisfaction tracking, quality assurance, KPI analytics) into a single integrated system. Targets IT departments and MSPs managing 50-5,000 users at a flat $25 per tech per month pricing model with no tiers or hidden fees. Runbooks is SOC 2 compliant with 99.9% uptime.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/runbooks/refs/heads/main/apis.yml)
 
@@ -11,7 +11,7 @@ Runbooks is an all-in-one IT operations platform purpose-built for IT teams and 
 
 ## Tags:
 
- - ITSM, ITAM, IT Operations, Managed Service Provider, Help Desk, Asset Management, Incident Management
+ - ITSM, ITAM, IT Operations, Managed Service Provider, Help Desk, Asset Management, Incident Management, Security Operations, CRM, IT Service Management
 
 ## Timestamps
 
@@ -21,18 +21,20 @@ Runbooks is an all-in-one IT operations platform purpose-built for IT teams and 
 ## APIs
 
 ### Runbooks IT Operations Platform
-The Runbooks platform provides an integrated IT operations suite covering ITSM (service desk, incident management, knowledge base), ITAM (hardware and software asset tracking, warranty management, lifecycle management), BizOps (CRM, client management, budgeting, vendor management), SecOps (audit logs, MFA, password management), and Insights (analytics, KPI tracking, reporting).
+The Runbooks platform provides an integrated IT operations suite covering ITSM (service desk, incident management, knowledge base, change management, CSAT tracking, SLA management), ITAM (hardware and software asset tracking, warranty management, lifecycle management, QR code asset labels), BizOps (CRM, client management, quarterly business reviews, budget forecasting, vendor management, shipping logs), SecOps (audit logs, MFA, password management), and Insights (automated reports, satisfaction tracking, quality assurance, KPI analytics). The platform does not currently offer a public REST API; all features are accessible via the web application.
 
 **Human URL:** [https://runbooks.com](https://runbooks.com)
 
 #### Tags:
 
- - ITSM, ITAM, IT Operations, Managed Service Provider, Help Desk, Asset Management, Incident Management, Security Operations
+ - ITSM, ITAM, IT Operations, Managed Service Provider, Help Desk, Asset Management, Incident Management, Security Operations, CRM, Knowledge Management
 
 #### Properties
 
 - [Documentation](https://runbooks.com)
 - [Website](https://runbooks.com)
+- [Pricing](https://runbooks.com/pricing)
+- [Vocabulary](vocabulary/runbooks-vocabulary.yml)
 
 ## Vocabulary
 
@@ -41,7 +43,9 @@ The Runbooks platform provides an integrated IT operations suite covering ITSM (
 ## Common Properties
 
 - [Website](https://runbooks.com)
-- [Pricing](https://runbooks.com)
+- [Pricing](https://runbooks.com/pricing)
+- [Login](https://app.runbooks.com)
+- [Security](https://runbooks.com/security)
 
 ## Maintainers
 
