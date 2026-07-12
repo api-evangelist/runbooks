@@ -65,6 +65,8 @@ apis:
       - type: Vocabulary
         url: vocabulary/runbooks-vocabulary.yml
 common:
+  - type: DomainSecurity
+    url: security/runbooks-domain-security.yml
   - type: Website
     url: https://runbooks.com
   - type: Pricing
