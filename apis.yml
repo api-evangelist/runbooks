@@ -36,6 +36,16 @@ tags:
   - Incident Management
   - Security Operations
   - CRM
+tags_raw:
+  - ITSM
+  - ITAM
+  - IT Operations
+  - Managed Service Provider
+  - Help Desk
+  - Asset Management
+  - Incident Management
+  - Security Operations
+  - CRM
   - IT Service Management
 url: https://raw.githubusercontent.com/api-evangelist/runbooks/refs/heads/main/apis.yml
 created: '2025-01-01'
@@ -57,6 +67,17 @@ apis:
     humanURL: https://runbooks.com
     baseURL: https://runbooks.com
     tags:
+      - ITSM
+      - ITAM
+      - IT Operations
+      - Managed Service Provider
+      - Help Desk
+      - Asset Management
+      - Incident Management
+      - Security Operations
+      - CRM
+      - Knowledge-Management
+    tags_raw:
       - ITSM
       - ITAM
       - IT Operations
