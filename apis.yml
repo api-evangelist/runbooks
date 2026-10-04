@@ -76,7 +76,6 @@ apis:
       KPI analytics). The platform does not currently offer a public REST API;
       all features are accessible via the web application.
     humanURL: https://runbooks.com
-    baseURL: https://runbooks.com
     tags:
       - ITSM
       - ITAM
@@ -87,7 +86,7 @@ apis:
       - Incident Management
       - Security Operations
       - CRM
-      - Knowledge-Management
+      - Knowledge Management
     tags_raw:
       - ITSM
       - ITAM
@@ -99,6 +98,7 @@ apis:
       - Security Operations
       - CRM
       - Knowledge Management
+      - Knowledge-Management
     properties:
       - type: Documentation
         url: https://runbooks.com
