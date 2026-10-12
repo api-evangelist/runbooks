@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/runbooks/integrations
+- https://n8n.io/integrations/runbooks/
+- https://composio.dev/toolkits/runbooks
+- https://monid.ai/tools/runbooks
+checked:
+- https://composio.dev/toolkits/runbooks
+- https://monid.ai/tools/runbooks
+- https://n8n.io/integrations/runbooks/
+- https://zapier.com/apps/runbooks/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
